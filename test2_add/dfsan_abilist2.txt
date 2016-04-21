@@ -1,0 +1,2 @@
+fun:add=uninstrumented
+fun:add=functional

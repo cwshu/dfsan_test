@@ -1,0 +1,5 @@
+fun:scanf=uninstrumented
+fun:scanf=discard
+fun:__isoc99_scanf=uninstrumented
+fun:__isoc99_scanf=discard
+
